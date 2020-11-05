@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7e79653-3a4e-48c6-9ff0-d8ab2436d978" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/homework/adonis/Observer/BaseObserver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Observer/homework/adonis/Observer/ChangeStatusObserver.php" afterPath="$PROJECT_DIR$/Observer/homework/adonis/Observer/ChangeStatusObserver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Observer/homework/adonis/Observer/NotifyTeacherObserver.php" afterPath="$PROJECT_DIR$/Observer/homework/adonis/Observer/NotifyTeacherObserver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Observer/homework/adonis/Observer/WriteTeacherItineraryObserver.php" afterPath="$PROJECT_DIR$/Observer/homework/adonis/Observer/WriteTeacherItineraryObserver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="question.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Observer/homework/subject/question.txt">
+      <file leaf-file-name="ChangeStatusObserver.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Observer/homework/adonis/Observer/ChangeStatusObserver.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="192">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangeStatusObserver.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Observer/homework/adonis/Observer/ChangeStatusObserver.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -106,6 +104,8 @@
         <option value="$PROJECT_DIR$/Observer/homework/adonis/Observer/ChangeStatusObserver.php" />
         <option value="$PROJECT_DIR$/Observer/homework/adonis/Observer/NotifyTeacherObserver.php" />
         <option value="$PROJECT_DIR$/Observer/homework/adonis/Observer/BaseObserver.php" />
+        <option value="$PROJECT_DIR$/Observer/homework/subject/question.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -151,34 +151,6 @@
               <item name="design-pattern" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Observer" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Observer" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="homework" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Observer" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="homework" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="adonis" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Observer" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="homework" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="adonis" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Observer" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Observer" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="homework" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="subject" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -217,12 +189,12 @@
       <option name="presentableId" value="Default" />
       <updated>1604541556415</updated>
       <workItem from="1604541563189" duration="11337000" />
-      <workItem from="1604562178810" duration="1612000" />
+      <workItem from="1604562178810" duration="1943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12949000" />
+    <option name="totallyTimeSpent" value="13280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1426" extended-state="6" />
@@ -346,14 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Observer/homework/subject/question.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Observer/homework/adonis/Subject.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -402,10 +366,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Observer/homework/subject/question.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Observer/homework/adonis/Observer/ChangeStatusObserver.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
