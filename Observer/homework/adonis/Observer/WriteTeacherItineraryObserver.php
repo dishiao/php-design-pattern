@@ -1,6 +1,6 @@
 <?php
 
-class WriteTeacherItineraryObserver implements \SplObserver
+class WriteTeacherItineraryObserver extends BaseObserver
 {
     public function update(SplSubject $subject)
     {

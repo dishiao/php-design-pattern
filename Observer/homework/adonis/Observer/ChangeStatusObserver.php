@@ -1,6 +1,6 @@
 <?php
 
-class ChangeStatusObserver implements \SplObserver
+class ChangeStatusObserver extends BaseObserver
 {
     public function update(SplSubject $subject)
     {
